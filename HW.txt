@@ -1,7 +1,9 @@
+Function
 1. Incorrect display of the count of tasks in the list
 2. The ‘clear’ button does not work if the task is not completed. (The ‘clear’ button does not work correctly)
 3. No possibility to change the order of tasks (select priority)
-4. Does not change when the screen is minimised
+
+Vaizdas
+1. Does not change when the screen is minimised
 
 
-somethings wrong
